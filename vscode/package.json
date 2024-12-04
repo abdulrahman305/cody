@@ -1493,7 +1493,7 @@
     "immer": "^10.1.1",
     "keytar": "^7.9.0",
     "kill-sync": "^1.0.3",
-    "mocha": "^10.2.0",
+    "mocha": "^11.0.1",
     "node-fetch": "^2.6.4",
     "normalize-url": "5.3.1",
     "on-headers": "^1.0.2",

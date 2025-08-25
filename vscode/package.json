@@ -1446,7 +1446,7 @@
   },
   "devDependencies": {
     "7zip-min": "^1.4.5",
-    "@google-cloud/pubsub": "^3.7.3",
+    "@google-cloud/pubsub": "^4.0.0",
     "@npmcli/promise-spawn": "^7.0.2",
     "@playwright/test": "1.47.2",
     "@pollyjs/adapter": "^6.0.6",
